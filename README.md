@@ -2,6 +2,10 @@
 
 #### 1、app.js 封装请求方式函数 fetchApi
 
+![image](./files/1.jpg)
+
 #### 2、app.json 配置文件(配置页面样式、多少页面、菜单按钮)
+![image](./files/2.jpg)
 
 #### 3、app.wxss 全局样式文件（定义页面的全局样式）
+![image](./files/3.jpg)
