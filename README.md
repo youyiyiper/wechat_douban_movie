@@ -12,3 +12,10 @@
 
 ##### 参考项目：
 [豆瓣电影](https://github.com/zce/weapp-demo/tree/backup "豆瓣电影")
+
+##### 官方文档：
+[官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/ "官方文档")
+
+```
+代码中已有大量的注释
+```
