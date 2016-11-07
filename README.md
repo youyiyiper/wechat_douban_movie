@@ -9,3 +9,6 @@
 
 #### 3、app.wxss 全局样式文件（定义页面的全局样式）
 ![image](./files/3.jpg)
+
+##### 参考项目：
+[豆瓣电影](https://github.com/zce/weapp-demo/tree/backup "豆瓣电影")
