@@ -8,7 +8,6 @@ App({
 
 	// ========== 应用程序全局方法 ==========
 	fetchApi(url, callback) {
-		// return callback(null, top250)
 		wx.request({
 			url,
 			data: {},
