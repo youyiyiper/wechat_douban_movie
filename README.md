@@ -17,5 +17,5 @@
 [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/ "官方文档")
 
 ```
-代码中已有大量的注释
+注：代码中已有大量的注释！
 ```
