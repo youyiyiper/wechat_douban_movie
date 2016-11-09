@@ -5,7 +5,7 @@
   加载中...
 </loading>
 
-<!-- 弹出加载层 -->
+<!-- 头部标题 -->
 <view class="page-header">
   	<text class="page-header-text">{{title}}</text>
 </view>
