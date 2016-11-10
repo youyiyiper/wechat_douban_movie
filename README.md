@@ -22,6 +22,8 @@
 	你不能直接请求第三方接口，只能通过你绑定的域名去请求第三方接口给到小程序，
 	否则会报错！
 ```
+##### 项目地址：
+[http://phpxiong.cn/article/show/41](http://phpxiong.cn/article/show/41 "豆瓣电影")
 
 ##### 参考项目：
 [豆瓣电影](https://github.com/zce/weapp-demo/tree/backup "豆瓣电影")
